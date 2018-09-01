@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: kongluo
-  Date: 2018/8/30
-  Time: 14:44
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
@@ -13,6 +6,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Title</title>
+
     <!-- 引入jQuery-->
     <script type="text/javascript" src="static/js/jquery-1.12.4.min.js"></script>
     <!-- 引入样式-->
